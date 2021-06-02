@@ -1,0 +1,2 @@
+property-file.name=Uat
+property-file.description=Uat Environment Value !
